@@ -1,0 +1,17 @@
+auto:	          true
+
+markdown:         rdiscount
+pygments:         true
+paginate:         6
+permalink:        /:title
+
+title:            botma.github.com
+url:              http://botma.github.com
+feed:             /atom.xml
+author:
+    name:         botma
+description:      "botma\'s Blog"
+author_info:      <a href="http:/botma.github.com/about">botma</a>
+
+copyright:
+    -  Design by <a href="http://beiyuu.com/about" title="BeiYuu" target="_blank">BeiYuu</a> &copy; 2013   thanks a lot
