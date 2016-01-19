@@ -28,10 +28,12 @@ layout: page
 </div>
 
 <script type="text/javascript">
-window.location.replace(“http://botma.github.com/blog”);
+//window.location.replace(“http://botma.github.com/blog”);
+$(location).attr(‘href’, ‘http://www.baidu.com’)
 
+/*
 $(function(){
     var height = $('.index-artical').height();
     $('.index-mid').height(height-90);
-});
+});*/
 </script>
