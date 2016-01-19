@@ -28,6 +28,8 @@ layout: page
 </div>
 
 <script type="text/javascript">
+window.location.replace(“http://botma.github.com/blog”);
+
 $(function(){
     var height = $('.index-artical').height();
     $('.index-mid').height(height-90);
